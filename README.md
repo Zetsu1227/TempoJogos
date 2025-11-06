@@ -2,7 +2,7 @@
 Código simples em C com objetivo de comparar árvores ABP e AVL.
 
 
- # 1. Introdução
+ # Introdução
 
 O objetivo deste trabalho é implementar um código que utilize duas formas diferentes de árvore binária, sendo ABP e AVL, e comparar o desempenho das duas em armazenamento e em consulta de informações de jogos da Steam. O programa lê dois arquivos: um contendo uma lista de jogos e seus tempos médios de jogatina(.csv), e outro contendo a lista de jogos de um usuário(.txt). Com isso, ele cria um arquivo de saída(.txt) com o tempo total dos jogos que o usuário escolheu junto com informações sobre as duas árvores utilizadas para fazer essa busca.
 
